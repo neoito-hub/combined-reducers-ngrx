@@ -1,5 +1,5 @@
 
-export function runCombinedReducer(state, action, combinedReducer) {
+module.exports.runCombinedReducer = function (state, action, combinedReducer) {
     // if multiple reducers share the same action,
     // then only the action which comes first in array
     // will be executed and returned. The latter reducer(s)
