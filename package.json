@@ -1,0 +1,19 @@
+{
+  "name": "combined-reducers",
+  "version": "1.0.0",
+  "description": "Multiple reducers with same state - Redux",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neoito-hub"
+  },
+  "keywords": [
+    "Angular-redux",
+    "combined",
+    "reducer",
+    "multiple",
+    "reducer"
+  ],
+  "author": "Neoito Technologies <lenin.j@neoito.com> (https://neoito.com)",
+  "license": "ISC"
+}
