@@ -1,6 +1,6 @@
 {
   "name": "combined-reducers",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Multiple reducers with same state - Redux",
   "main": "index.js",
   "repository": {
