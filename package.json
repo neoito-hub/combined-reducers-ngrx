@@ -1,5 +1,5 @@
 {
-  "name": "combined-reducers",
+  "name": "combined-reducers NGRX-REDUX",
   "version": "1.0.1",
   "description": "Multiple reducers with same state - Redux",
   "main": "index.js",
@@ -9,11 +9,15 @@
   },
   "keywords": [
     "Angular-redux",
-    "combined",
-    "reducer",
-    "multiple",
-    "reducer"
+    "ngrx-redux",
+    "combined-reducers",
+    "multiple-reducer",
+    "more-than-one-reducer",
+    "reducers"
   ],
   "author": "Neoito Technologies <lenin.j@neoito.com> (https://neoito.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
