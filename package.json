@@ -1,12 +1,12 @@
 {
   "name": "combined-reducers-ngrx",
-  "homepage": "https://github.com/neoito-hub/combined-reducers#readme",
+  "homepage": "https://github.com/neoito-hub/combined-reducers-ngrx#readme",
   "version": "1.0.7",
   "description": "Multiple reducers with same state - Redux",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/neoito-hub/combined-reducers"
+    "url": "https://github.com/neoito-hub/combined-reducers-ngrx.git"
   },
   "keywords": [
     "Angular-redux",
