@@ -1,5 +1,5 @@
 {
-  "name": "combined-reducers NGRX-REDUX",
+  "name": "combined-reducers-ngrx",
   "homepage": "https://github.com/neoito-hub/combined-reducers#readme",
   "version": "1.0.6",
   "description": "Multiple reducers with same state - Redux",
